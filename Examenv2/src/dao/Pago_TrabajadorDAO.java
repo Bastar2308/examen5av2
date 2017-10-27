@@ -1,5 +1,11 @@
+
 package dao;
-//@author DANIEL
+// @author DANIEL
 public class Pago_TrabajadorDAO {
+
+    public Pago_TrabajadorDAO() {
+        
+    }
+    
     
 }
