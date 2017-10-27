@@ -12,6 +12,7 @@ package dao;
 public class PagoDAO {
 
     public PagoDAO() {
+        System.out.println("Hola");
     }
     
 }
