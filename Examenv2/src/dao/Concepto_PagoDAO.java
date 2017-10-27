@@ -12,6 +12,7 @@ package dao;
 public class Concepto_PagoDAO {
 
     public Concepto_PagoDAO() {
+        System.out.println("");
     }
     
 }
