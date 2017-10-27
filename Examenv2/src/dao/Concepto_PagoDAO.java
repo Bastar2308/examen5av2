@@ -10,5 +10,8 @@ package dao;
  * @author Lalo
  */
 public class Concepto_PagoDAO {
+
+    public Concepto_PagoDAO() {
+    }
     
 }
