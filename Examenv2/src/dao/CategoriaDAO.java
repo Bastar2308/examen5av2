@@ -10,5 +10,9 @@ package dao;
  * @author foxfa
  */
 public class CategoriaDAO {
+
+    public CategoriaDAO() {
+        System.out.println("Hola");
+    }
     
 }
