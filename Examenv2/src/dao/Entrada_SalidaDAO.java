@@ -7,12 +7,8 @@ package dao;
 
 /**
  *
- * @author foxfa
+ * @author Zero Vandett39
  */
-public class CategoriaDAO {
-
-    public CategoriaDAO() {
-        System.out.println("Hola");
-    }
+public class Entrada_SalidaDAO {
     
 }
